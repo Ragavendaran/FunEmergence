@@ -4,10 +4,10 @@ This is an experiment for building multiplayer websites with mini-games for educ
 
 ## Developing
 
-Once this repository is forked and cloned, `cd` into this directory and start the dev server:
+Once this repository is set up, `cd` into this directory and start the dev server:
 
 ```bash
-cd sites/kit.svelte.dev
-pnpm run update
+cd FunEmergence
+pnpm install
 pnpm dev
 ```
